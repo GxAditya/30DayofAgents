@@ -1,0 +1,10 @@
+Name - Aditya Kumar
+Age - 23
+Gender - Male
+Occupation - Software Engineer
+Hobbies - Reading, Writing, Coding, Traveling
+Interests - Nature, Travel, Music, Movies
+Favorite Color - Blue
+Favorite Food - Pizza
+Favorite Music - Pop
+Favorite TV Show - Stranger Things      
